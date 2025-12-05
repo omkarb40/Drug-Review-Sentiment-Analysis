@@ -1,0 +1,2 @@
+test_accuracy,test_f1_macro,test_loss,best_val_f1,training_time_minutes,epochs,learning_rate,batch_size,max_length,total_parameters,model_name
+0.6913183279742765,0.6532615123447042,0.7873349617689084,0.6379943748364801,6.5292343656222025,3,2e-05,16,256,108312579,dmis-lab/biobert-base-cased-v1.2
