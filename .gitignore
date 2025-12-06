@@ -1,1 +1,10 @@
 .venv
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+*.egg
+output/biobert_drug_sentiment/
+data/

@@ -53,4 +53,4 @@ prediction = torch.argmax(outputs.logits, dim=1).item()
 ## Citation
 If you use this model, please cite:
 - BioBERT: Lee et al., 2020 (https://arxiv.org/abs/1901.08746)
-- This implementation: CIS 602 Project 4, 2024
+- This implementation: CIS 602 Project 4, 2025
